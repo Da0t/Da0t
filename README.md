@@ -1,8 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000&height=120&section=header&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000&height=120&section=header&fontColor=ffffff&text=Dat%20Nguyen&fontSize=40&fontAlignY=70" width="100%"/>
 
-# Dat Nguyen
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20Economics-B20000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UC%20San%20Diego-B20000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPA%3A%203.6-B20000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Class%20of%202028-B20000?style=flat-square&logoColor=white"/>
+</p>
 
 Data Science & Economics student at UC San Diego with a focus on applied AI, geospatial systems, and defense technology. I build end-to-end systems across the full stack, from ML pipelines to deployed hardware, and compete in hackathons to stay sharp on execution under pressure.
+
+---
 
 ---
 
@@ -21,8 +28,11 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 ![Python](https://img.shields.io/badge/Python-B20000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B20000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-B20000?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B20000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-B20000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-B20000?style=for-the-badge&logo=gnubash&logoColor=white)
+![R](https://img.shields.io/badge/R-B20000?style=for-the-badge&logo=r&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-B20000?style=for-the-badge&logo=html5&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-B20000?style=for-the-badge&logoColor=white)
 
 **Frameworks & Libraries**
@@ -31,7 +41,17 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 ![Next.js](https://img.shields.io/badge/Next.js-B20000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-B20000?style=for-the-badge&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-B20000?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-B20000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-B20000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-B20000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-B20000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-B20000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-B20000?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-B20000?style=for-the-badge&logo=streamlit&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-B20000?style=for-the-badge&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-B20000?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-B20000?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-B20000?style=for-the-badge&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-B20000?style=for-the-badge&logoColor=white)
 
 **AI / ML**
 
@@ -41,13 +61,28 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-B20000?style=for-the-badge&logoColor=white)
 ![Geospatial ML](https://img.shields.io/badge/Geospatial_ML-B20000?style=for-the-badge&logoColor=white)
 
-**Data & Infrastructure**
+**Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-B20000?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-B20000?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B20000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-B20000?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-B20000?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-B20000?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-B20000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
 ![Docker](https://img.shields.io/badge/Docker-B20000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-B20000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-B20000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-B20000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-B20000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-B20000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-B20000?style=for-the-badge&logo=nginx&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-B20000?style=for-the-badge&logo=databricks&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-B20000?style=for-the-badge&logo=mapbox&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-B20000?style=for-the-badge&logo=qgis&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-B20000?style=for-the-badge&logo=anaconda&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-B20000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -60,6 +95,10 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 
 ---
 
-**Location:** San Diego, CA &nbsp;|&nbsp; **Portfolio:** [dats-nguyen.vercel.app](https://dats-nguyen.vercel.app)
+<p align="center">
+  <a href="https://linkedin.com/in/datnguy3n"><img src="https://img.shields.io/badge/LinkedIn-B20000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dats-nguyen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B20000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Da0t"><img src="https://img.shields.io/badge/GitHub-B20000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B20000&height=80&section=footer" width="100%"/>
