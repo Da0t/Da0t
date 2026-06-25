@@ -18,6 +18,7 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 - **1st Place**, SDx Hackathon · *Rewind*, an agentic fork pipeline leveraging the Omnara API
 - **1st Place (Deepgram Sponsor Prize)**, UC Berkeley AI Hackathon · *Aria AI*, a real-time Raspberry Pi wearable with swappable AI personalities using Claude Haiku, Deepgram STT/TTS, Redis, and React Native
 - **2nd Place**, BowCapital Defense Hackathon · *Pylon*, a counter-drone detection system with anomaly-based open-world detection and a peer-to-peer mesh network
+- **2nd Place**, IEEE Quarterly Project · Weather-Adaptive IoT Energy Monitor, a real-time IoT energy monitoring system using ESP32, Supabase, and Streamlit with live weather-adaptive logic
 
 ---
 
@@ -52,6 +53,7 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-B20000?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-B20000?style=for-the-badge&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-B20000?style=for-the-badge&logoColor=white)
+
 
 **AI / ML**
 
