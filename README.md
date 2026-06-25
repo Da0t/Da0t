@@ -118,7 +118,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&hide_border=false&border_color=B20000" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&theme=github-compact&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&border_color=B20000" width="100%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
