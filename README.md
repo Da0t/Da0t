@@ -17,6 +17,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Experience
 
+- **Co-Founder & Founding Software Engineer**, Aria AI
 - **Full-Stack Developer Intern**, SEO USA
 - **Software Engineer**, AISC @ UC San Diego
 - **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
