@@ -9,6 +9,23 @@
 
 Data Science & Economics student at UC San Diego with a focus on applied AI, geospatial systems, and defense technology. I build end-to-end systems across the full stack, from ML pipelines to deployed hardware, and compete in hackathons to stay sharp on execution under pressure.
 
+My work spans real-time AI wearables, counter-drone detection systems, IoT dashboards, and multimodal RAG pipelines. I care about shipping things that work in the real world, not just in notebooks.
+
+When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, or figuring out how to make the next thing faster and smaller.
+
+---
+
+## Experience
+
+- **Full-Stack Developer Intern**, SEO USA
+- **Software Engineer**, AISC @ UC San Diego
+- **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
+
+## Leadership
+
+- **VP of Project Operations**, DataWorks @ UC San Diego
+- **Volunteer**, CALPIRG Students
+
 ---
 
 ---
@@ -18,7 +35,7 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 - **1st Place**, SDx Hackathon · *Rewind*, an agentic fork pipeline leveraging the Omnara API
 - **1st Place (Deepgram Sponsor Prize)**, UC Berkeley AI Hackathon · *Aria AI*, a real-time Raspberry Pi wearable with swappable AI personalities using Claude Haiku, Deepgram STT/TTS, Redis, and React Native
 - **2nd Place**, BowCapital Defense Hackathon · *Pylon*, a counter-drone detection system with anomaly-based open-world detection and a peer-to-peer mesh network
-- **2nd Place**, IEEE Quarterly Project · Weather-Adaptive IoT Energy Monitor, a real-time IoT energy monitoring system using ESP32, Supabase, and Streamlit with live weather-adaptive logic
+- **2nd Place**, IEEE Quarterly Project · *Weather-Adaptive IoT Energy Monitor*, a real-time IoT energy dashboard with weather-adaptive logic
 
 ---
 
@@ -53,7 +70,7 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-B20000?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-B20000?style=for-the-badge&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-B20000?style=for-the-badge&logoColor=white)
-
+![Plotly](https://img.shields.io/badge/Plotly-B20000?style=for-the-badge&logo=plotly&logoColor=white)
 
 **AI / ML**
 
