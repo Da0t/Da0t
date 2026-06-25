@@ -112,6 +112,18 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&theme=transparent&title_color=B20000&text_color=ffffff&border_color=B20000&hide=jupyter%20notebook" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Da0t&theme=transparent&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=B20000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Da0t&theme=onedark&title_color=B20000&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&hide_border=false&border_color=B20000" width="100%"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
 
 <p align="center">
