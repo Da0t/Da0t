@@ -90,7 +90,7 @@ Data Science & Economics student at UC San Diego with a focus on applied AI, geo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Da0t&show_icons=true&theme=transparent&title_color=B20000&icon_color=B20000&text_color=ffffff&border_color=B20000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&theme=transparent&title_color=B20000&text_color=ffffff&border_color=B20000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&theme=transparent&title_color=B20000&text_color=ffffff&border_color=B20000&hide=jupyter%20notebook" height="160"/>
 </p>
 
 ---
