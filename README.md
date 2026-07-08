@@ -17,7 +17,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Experience
 
-- **Full-Stack Developer Intern**, SEO USA
+- **Full-Stack Developer Intern**, SEO (Sponsers for Educational Opportunity) 
 - **Software Engineer**, AISC @ UC San Diego
 - **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
 
