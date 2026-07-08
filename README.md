@@ -13,7 +13,7 @@ My work spans real-time AI wearables, counter-drone detection systems, IoT dashb
 
 When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, or figuring out how to make the next thing faster and smaller.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Experience
 
@@ -26,9 +26,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 - **VP of Project Operations**, DataWorks @ UC San Diego
 - **Volunteer**, CALPIRG Students
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Achievements
 
@@ -37,7 +35,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 - **2nd Place**, BowCapital Defense Hackathon · *Pylon*, a counter-drone detection system with anomaly-based open-world detection and a peer-to-peer mesh network
 - **2nd Place**, IEEE Quarterly Project · *Weather-Adaptive IoT Energy Monitor*, a real-time IoT energy dashboard with weather-adaptive logic
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Skills
 
@@ -103,25 +101,24 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 ![Anaconda](https://img.shields.io/badge/Anaconda-B20000?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B20000?style=for-the-badge&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Da0t&show_icons=true&theme=transparent&title_color=B20000&icon_color=B20000&text_color=ffffff&border_color=B20000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&theme=transparent&title_color=B20000&text_color=ffffff&border_color=B20000&hide=jupyter%20notebook" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Da0t&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B20000&icon_color=B20000&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&hide_border=true&bg_color=0d1117&title_color=B20000&text_color=ffffff&hide=jupyter%20notebook" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Da0t&theme=transparent&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=B20000"/>
+  <img src="https://streak-stats.demolab.com?user=Da0t&hide_border=true&background=0d1117&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=B20000"/>
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&theme=github-compact&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&border_color=B20000" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&hide_border=true" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/datnguy3n"><img src="https://img.shields.io/badge/LinkedIn-B20000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
