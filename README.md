@@ -106,24 +106,21 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Da0t&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B20000&icon_color=B20000&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da0t&layout=compact&hide_border=true&bg_color=0d1117&title_color=B20000&text_color=ffffff&hide=jupyter%20notebook" height="160"/>
+  <img src="https://raw.githubusercontent.com/Da0t/Da0t/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="200"/>
+  <img src="https://raw.githubusercontent.com/Da0t/Da0t/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Da0t&hide_border=true&background=0d1117&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=B20000"/>
+  <img src="https://raw.githubusercontent.com/Da0t/Da0t/main/profile-summary-card-output/github_dark/3-stats.svg" height="200"/>
+  <img src="https://raw.githubusercontent.com/Da0t/Da0t/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da0t&bg_color=0d1117&color=ffffff&line=B20000&point=B20000&area=true&hide_border=true" width="100%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/datnguy3n"><img src="https://img.shields.io/badge/LinkedIn-B20000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dats-nguyen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B20000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/Da0t"><img src="https://img.shields.io/badge/GitHub-B20000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B20000&height=80&section=footer" width="100%"/>
+<!--
+  Theme is set by the folder name in the paths above (currently: github_dark).
+  To switch, replace every "github_dark" above with one of:
+  default, github, dracula, monokai, nord_bright, nord_dark,
+  solarized, solarized_dark, 2077, vue
+  For a red accent closest to your palette, try: 2077
+  (You do NOT need to rerun the Action to switch themes — all themes
+   are generated into their own folders on every run.)
+-->
