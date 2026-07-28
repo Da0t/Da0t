@@ -16,7 +16,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Experience
-
+- **Software Engineering Intern**, Netra
 - **Full-Stack Developer Intern**, SEO (Sponsers for Educational Opportunity) 
 - **Software Engineer**, AISC @ UC San Diego
 - **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
@@ -30,11 +30,18 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Achievements
 
-- **1st Place**, SDx Hackathon · *Rewind*, an agentic fork pipeline leveraging the Omnara API
-- **1st Place (Deepgram Sponsor Prize)**, UC Berkeley AI Hackathon · *Aria AI*, a real-time Raspberry Pi wearable with swappable AI personalities using Claude Haiku, Deepgram STT/TTS, Redis, and React Native
-- **2nd Place**, BowCapital Defense Hackathon · *Pylon*, a counter-drone detection system with anomaly-based open-world detection and a peer-to-peer mesh network
-- **2nd Place**, IEEE Quarterly Project · *Weather-Adaptive IoT Energy Monitor*, a real-time IoT energy dashboard with weather-adaptive logic
+**8x Hackathon Awards**
 
+- **1st Place, Deepgram Track** · UC Berkeley AI Hackathon · [Aria AI](#) · Real-time Raspberry Pi wearable with swappable AI personalities (Claude Haiku, Deepgram STT/TTS, Redis, React Native)
+- **1st Place, Akash Track** · Loop Engineering Hackathon, AWS Builder Loft · [Vigil](#) · Autonomous on-call engineer that resolves production incidents without standing credentials, using a behavior-reactive Pomerium policy engine for just-in-time scoped access
+- **1st Place Overall** · SDx x Omnara · [Rewind](#) · Agentic fork pipeline built on the Omnara API
+- **1st Place Overall** · Voice Cursor x Convex · [Locus](#) · [one line description]
+- **1st Place, Beginner Track** · MLH x DigitalOcean · [Rollaway](#) · AI copilot for SF food truck parking and permits, with a deterministic legal engine keeping the LLM out of all compliance logic
+- **1st Place, UI/UX** · SEO Tech Developer · [Perch](#) · Social platform for interns landing in a new city
+- **2nd Place Overall** · Bow Capital Defense Hackathon · [Pylon](#) · Counter-drone detection with anomaly-based open-world detection over a leaderless UDP gossip mesh
+- **2nd Place Overall** · IEEE Quarterly Project · Weather-Adaptive IoT Energy Monitor · Real-time IoT energy dashboard with weather-adaptive logic
+
+**Selected:** Deepgram Startup Program (Aria AI)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Skills
