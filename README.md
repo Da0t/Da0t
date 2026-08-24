@@ -16,10 +16,11 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Experience
-- **Software Engineering Intern**, Netra
+- **Software Engineer Intern**, Netra
 - **Full-Stack Developer Intern**, SEO (Sponsers for Educational Opportunity) 
 - **Software Engineer**, AISC @ UC San Diego
 - **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
+- **Software Engineer Intern**, Boa AI
 
 ## Leadership
 
