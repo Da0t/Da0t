@@ -31,7 +31,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Achievements
 
-**8x Hackathon Awards**
+**10x Hackathon Awards**
 
 - **1st Place, Deepgram Track** · UC Berkeley AI Hackathon · [Aria AI](#) · Real-time Raspberry Pi wearable with swappable AI personalities (Claude Haiku, Deepgram STT/TTS, Redis, React Native)
 - **1st Place, Akash Track** · Loop Engineering Hackathon, AWS Builder Loft · [Vigil](#) · Autonomous on-call engineer that resolves production incidents without standing credentials, using a behavior-reactive Pomerium policy engine for just-in-time scoped access
