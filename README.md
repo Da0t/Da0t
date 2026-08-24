@@ -37,6 +37,8 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 - **1st Place, Akash Track** · Loop Engineering Hackathon, AWS Builder Loft · [Vigil](#) · Autonomous on-call engineer that resolves production incidents without standing credentials, using a behavior-reactive Pomerium policy engine for just-in-time scoped access
 - **1st Place Overall** · SDx x Omnara · [Rewind](#) · Agentic fork pipeline built on the Omnara API
 - **1st Place Overall** · Voice Cursor x Convex · [Locus](#) · [one line description]
+- **1st Place Overall** · DSA x Intel Building for Good, UCSD · [Parsel](URL) · [one line description]
+- **1st Place Overall** · Memory Meets Motion · [Atrium](URL) · Built on the FalkorDB stack, [one line description]
 - **1st Place, Beginner Track** · MLH x DigitalOcean · [Rollaway](#) · AI copilot for SF food truck parking and permits, with a deterministic legal engine keeping the LLM out of all compliance logic
 - **1st Place, UI/UX** · SEO Tech Developer · [Perch](#) · Social platform for interns landing in a new city
 - **2nd Place Overall** · Bow Capital Defense Hackathon · [Pylon](#) · Counter-drone detection with anomaly-based open-world detection over a leaderless UDP gossip mesh
