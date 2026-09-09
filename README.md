@@ -24,8 +24,10 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Leadership
 
-- **VP of Project Operations**, DataWorks @ UC San Diego
-- **Volunteer**, CALPIRG Students
+- **VP Project Operations**, DataWorks @ UC San Diego
+- **Campign Lead**, CALPIRG Students
+- **Compus Ambassador**, Adobe
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
