@@ -17,7 +17,7 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 
 ## Experience
 - **Software Engineer Intern**, Netra
-- **Full-Stack Developer Intern**, SEO (Sponsers for Educational Opportunity) 
+- **Full-Stack Developer Intern**, SEO (Sponsors for Educational Opportunity) 
 - **Software Engineer**, AISC @ UC San Diego
 - **Undergraduate Researcher**, Economics Research Lab @ UC San Diego
 - **Software Engineer Intern**, Boa AI
@@ -25,16 +25,18 @@ When I'm not coding, I'm probably at a hackathon, reading about geospatial ML, o
 ## Leadership
 
 - **VP Project Operations**, DataWorks @ UC San Diego
-- **Campign Lead**, CALPIRG Students
-- **Compus Ambassador**, Adobe
+- **Campaign Lead**, CALPIRG Students
+- **Campus Ambassador**, Adobe
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B20000&height=2" width="100%"/>
 
 ## Achievements
 
-**10x Hackathon Awards**
+**12x Hackathon Awards**
 
+- **1st Place, AI in Finance Track** · Solix AI Hackathon 2026 · [Covenant Watch](https://github.com/lgoyal6/covenant-watch) · Rebuilds loan covenants from SEC filings and recomputes headroom from XBRL financials, with every number cited to the filing
+- **Best Technical Execution** · 2026 LPL Financial University Hackathon · [Coherent](https://github.com/Da0t/LPL-Hackathon) · Turns everyday language into a confirmed, correctly routed wealth-management request
 - **1st Place, Deepgram Track** · UC Berkeley AI Hackathon · [Aria AI](#) · Real-time Raspberry Pi wearable with swappable AI personalities (Claude Haiku, Deepgram STT/TTS, Redis, React Native)
 - **1st Place, Akash Track** · Loop Engineering Hackathon, AWS Builder Loft · [Vigil](#) · Autonomous on-call engineer that resolves production incidents without standing credentials, using a behavior-reactive Pomerium policy engine for just-in-time scoped access
 - **1st Place Overall** · SDx x Omnara · [Rewind](#) · Agentic fork pipeline built on the Omnara API
